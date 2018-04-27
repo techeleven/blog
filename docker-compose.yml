@@ -1,11 +1,11 @@
 version: "3"
 services:
   site:
-    command: jekyll serve
+    command: jekyll serve    
     image: jekyll/jekyll:latest
     volumes:
-      - C:\Users\matthias\dev\labs\jekyll:/srv/jekyll
-      - C:\Users\matthias\dev\labs\jekyll/vendor/bundle:/usr/local/bundle
+      - ./:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
     ports:
       - 4000:4000
       - 35729:35729
