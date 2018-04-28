@@ -24,6 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: companytech11
 github_username:  techeleven
 
+# Google Analytics
+google_analytics: UA-101755683-2
+
+
 # Build settings
 markdown: kramdown
 theme: minima
