@@ -27,6 +27,7 @@ github_username:  techeleven
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: none
 plugins:
   - jekyll-feed
 
