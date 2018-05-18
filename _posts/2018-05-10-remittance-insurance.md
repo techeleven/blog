@@ -4,6 +4,7 @@ title: "Remittance Insurance"
 date: 2018-05-10 11:31:14 +0100
 tags: remittance insurance, microinsurance, platform 
 lang: en
+author: matthias
 ---
 ## Background to Remittance Insurance
 
