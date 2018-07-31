@@ -26,7 +26,7 @@ The key pillar of an evolutionary architecture is:
 
 > An evolutionary architecture supports incremental, guided change as a first principle across multiple dimensions.  
 >  
->  [source: http://nealford.com/downloads/Evolutionary_Architecture_Keynote_by_Neal_Ford.pdf]
+>  [source: [Keynote by Neal Ford]]
 
 <br>
 For more information you can also have a look to the following links:
@@ -53,3 +53,4 @@ If you are interested in more details of our evolutionary architecture platform,
 [microservices-evolutionary-architecture]: https://www.thoughtworks.com/de/insights/blog/microservices-evolutionary-architecture
 [Evolutionary_Architecture]: http://nealford.com/downloads/Evolutionary_Architecture_Keynote_by_Neal_Ford.pdf
 [Building Evolutionary Architectures]: https://www.thoughtworks.com/books/building-evolutionary-architectures
+[Keynote by Neal Ford]: http://nealford.com/downloads/Evolutionary_Architecture_Keynote_by_Neal_Ford.pdf
