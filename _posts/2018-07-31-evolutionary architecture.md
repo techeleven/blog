@@ -6,6 +6,7 @@ tags: blog
 lang: en
 author: matthias
 ---
+![Evolutionary Architecture - Evolutionary Insurance Platform](/assets/evolutionary-architecture/architecture.jpg)
 
 One of the challenges for building a modern *insurance* platform is to be future proof.
 
