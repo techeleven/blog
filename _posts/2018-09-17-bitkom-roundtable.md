@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tech11 joins InsurLab Germany"
+title: "tech11 at Bitkom´s Digital InsurTech Roundtable"
 date: 2018-09-17 18:04:10 +0200
 tags: blog 
 lang: en
