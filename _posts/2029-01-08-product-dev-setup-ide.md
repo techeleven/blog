@@ -72,6 +72,8 @@ run
 	<socket-binding-group name="standard-sockets" default-interface="public" port-offset="${jboss.socket.binding.port-offset:-1000}">
 
    The port-offset is reduced for 1000 -> Camunda server is running on port 7080
+   ![image](https://user-images.githubusercontent.com/47417483/52415027-3c0f6f80-2ae6-11e9-86ce-0f744cb27abd.png)
+   
 
 ** Add settings for some special user tasks from the BPM processes at the **Camunda standalone.xml**
    add system properties to standalone.xml
@@ -79,7 +81,7 @@ run
     <system-properties>
         <property name="CXC_PRINTING_DIR" value="C:\TMP/druckerstrasse"/>
     </system-properties>
-
+![image](https://user-images.githubusercontent.com/47417483/52415257-c7890080-2ae6-11e9-9b78-46eac9b8cd78.png)
 
 ** Add settings for the microservice at the **Wildfly standalone.xml**
    
@@ -94,6 +96,7 @@ run
         <property name="PARTNER_DIR" value="${hero.repo.dir}/partner"/>
         <property name="DOC_STORAGE_DIR" value="${hero.root.dir}/file-archive-system"/>
     </system-properties>    
+![image](https://user-images.githubusercontent.com/47417483/52415804-564a4d00-2ae8-11e9-96b7-407500559165.png)
 
 ** Add datasources for the microservices at the Wildfly standalone.xml
    Datasources section add:
@@ -138,7 +141,8 @@ run
 				<password>sa</password>
 			</security>
 		</datasource>
-
+And change comnnection-url section to your own location:
+![image](https://user-images.githubusercontent.com/47417483/52415664-ec31a800-2ae7-11e9-95d4-905c83528122.png)
 
 ## Configure maven
 
