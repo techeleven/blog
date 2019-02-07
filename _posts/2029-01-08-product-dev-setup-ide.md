@@ -98,6 +98,8 @@ run
     </system-properties>    
 
 **Replace each "value" by your own location:**
+
+
 ![image](https://user-images.githubusercontent.com/47417483/52415804-564a4d00-2ae8-11e9-96b7-407500559165.png)
 
 ** Add datasources for the microservices at the Wildfly standalone.xml
