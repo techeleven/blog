@@ -63,9 +63,8 @@ run
 ## Configure Servers in eclipse
 
 * Wildfly default setup (new server, ...) - link server to wildfly directory
-<div align="center">
-    <img src="C:\Users\Houda\Pictures\Screenshots\server.png" width="400px"</img> 
-</div>
+![image](https://user-images.githubusercontent.com/47417483/52414462-b5a65e00-2ae4-11e9-81a1-b0e7b7d7904b.png)
+
 
 * Camunda setup (new server, ...) - link server to camunda directory
 ** Change the Camunda server port: <CAMUNDA_HOME>\server\wildfly-10.1.0.Final\standalone\configuration\standalone.xml
