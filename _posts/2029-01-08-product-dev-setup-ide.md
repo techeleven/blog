@@ -147,7 +147,7 @@ And change comnnection-url section to your own location:
 ## Configure maven
 
 * Change <USER_DIR>/.m2/settings.xml
-* User the settings from SLACK channel and replace username and password
+* User the settings from SLACK channel and replace the id, username and password
 
 
 ## Setup a project from BitBucket
