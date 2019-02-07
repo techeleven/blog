@@ -63,6 +63,11 @@ run
 ## Configure Servers in eclipse
 
 * Wildfly default setup (new server, ...) - link server to wildfly directory
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="C:\Users\Houda\Pictures\Screenshots\server.png" width="350" alt="accessibility text">
+</p>
+
 * Camunda setup (new server, ...) - link server to camunda directory
 ** Change the Camunda server port: <CAMUNDA_HOME>\server\wildfly-10.1.0.Final\standalone\configuration\standalone.xml
  
