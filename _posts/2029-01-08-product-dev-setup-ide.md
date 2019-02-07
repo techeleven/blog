@@ -96,6 +96,8 @@ run
         <property name="PARTNER_DIR" value="${hero.repo.dir}/partner"/>
         <property name="DOC_STORAGE_DIR" value="${hero.root.dir}/file-archive-system"/>
     </system-properties>    
+
+**Replace each "value" by your own location:**
 ![image](https://user-images.githubusercontent.com/47417483/52415804-564a4d00-2ae8-11e9-96b7-407500559165.png)
 
 ** Add datasources for the microservices at the Wildfly standalone.xml
@@ -141,7 +143,7 @@ run
 				<password>sa</password>
 			</security>
 		</datasource>
-And change comnnection-url section to your own location:
+And change connection-url section to your own location:
 ![image](https://user-images.githubusercontent.com/47417483/52415664-ec31a800-2ae7-11e9-95d4-905c83528122.png)
 
 ## Configure maven
