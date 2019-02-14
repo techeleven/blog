@@ -81,7 +81,7 @@ run
     <system-properties>
         <property name="CXC_PRINTING_DIR" value="C:\TMP/druckerstrasse"/>
     </system-properties>
-![image](https://user-images.githubusercontent.com/47417483/52415257-c7890080-2ae6-11e9-9b78-46eac9b8cd78.png)
+![image](https://user-images.githubusercontent.com/47417483/52772321-77ef8b00-3038-11e9-8a47-507edf45f350.png)
 
 ** Add settings for the microservice at the **Wildfly standalone.xml**
    
